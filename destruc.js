@@ -18,6 +18,7 @@ console.log(rest);
 
 var x = 1;
 var y = 3;
+var w = 2;
 
 [x, y] = [y, x];
 console.log(x);
